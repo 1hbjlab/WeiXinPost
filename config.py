@@ -1,8 +1,8 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx421e8b0867c9d6c6"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "90c82c20ab4b798de76ac6bfd7731c03"
 # 模板消息id
 # 每日消息
 template_id1 = "wX-************************************"
@@ -12,7 +12,7 @@ template_id2 = "loe1yHWr************************************"
 template_id3 = "-fun9-2************************************"
 # 接收公众号消息的微信号
 # 这是openid
-user = ["ojhdR50T******************"]
+user = ["oqdys52uMhrtFUNaaw409bCVvvgE"]
 
 # 信息配置
 # 所在省份
